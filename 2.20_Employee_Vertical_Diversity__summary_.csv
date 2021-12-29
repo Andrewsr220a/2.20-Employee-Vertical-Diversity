@@ -1,0 +1,49 @@
+﻿Job_Category,Year,Month,Date,Sex,White__not_Hispanic___Latino_,Hispanic___Latino,African_American__not_Hispanic_,American_Indian___Alaskan_Nativ,Asian,Native_Hawaiian_or_Other_Pacifi,Two_or_More_Races,Other,ObjectId
+Administrative Support,2020,10,2020/10/15 07:00:00+00,Female,11,11,2,0,0,1,3,0,1
+Administrative Support,2020,10,2020/10/15 07:00:00+00,Male,-21,-7,1,-1,-1,0,0,0,2
+Officials / Administrators,2020,10,2020/10/15 07:00:00+00,Female,4,-4,3,0,1,0,0,0,3
+Officials / Administrators,2020,10,2020/10/15 07:00:00+00,Male,-2,-5,3,2,-2,0,-1,0,4
+Professionals,2020,10,2020/10/15 07:00:00+00,Female,-9,3,1,0,0,0,1,0,5
+Professionals,2020,10,2020/10/15 07:00:00+00,Male,5,3,0,0,-2,0,-1,0,6
+Protective Services (non-sworn),2020,10,2020/10/15 07:00:00+00,Female,-22,-5,2,1,2,0,0,0,7
+Protective Services (non-sworn),2020,10,2020/10/15 07:00:00+00,Male,25,-3,0,-5,2,0,-2,0,8
+Protective Services (sworn),2020,10,2020/10/15 07:00:00+00,Female,-3,-1,-1,-1,0,0,0,0,9
+Protective Services (sworn),2020,10,2020/10/15 07:00:00+00,Male,7,0,2,-2,1,-1,0,0,10
+Service Maintenance,2020,10,2020/10/15 07:00:00+00,Female,-17,-13,-1,0,-2,0,0,0,11
+Service Maintenance,2020,10,2020/10/15 07:00:00+00,Male,9,20,1,-2,-1,0,2,0,12
+Skilled Craft,2020,10,2020/10/15 07:00:00+00,Female,-1,-2,0,0,0,0,0,0,13
+Skilled Craft,2020,10,2020/10/15 07:00:00+00,Male,18,-13,1,-3,-1,-1,2,0,14
+Technicians,2020,10,2020/10/15 07:00:00+00,Female,-14,-5,-2,0,-3,0,0,0,15
+Technicians,2020,10,2020/10/15 07:00:00+00,Male,2,22,1,-2,-1,0,0,0,16
+Administrative Support,2019,10,2019/10/31 07:00:00+00,Female,9,9,0,0,0,1,2,0,17
+Administrative Support,2019,10,2019/10/31 07:00:00+00,Male,-18,-3,0,0,-1,0,0,0,18
+Officials / Administrators,2019,10,2019/10/31 07:00:00+00,Female,1,-4,5,0,1,0,0,0,19
+Officials / Administrators,2019,10,2019/10/31 07:00:00+00,Male,-1,-3,2,0,0,0,0,0,20
+Professionals,2019,10,2019/10/31 07:00:00+00,Female,-9,3,1,-1,-1,0,0,0,21
+Professionals,2019,10,2019/10/31 07:00:00+00,Male,6,3,0,1,-3,0,0,0,22
+Protective Services (non-sworn),2019,10,2019/10/31 07:00:00+00,Female,-17,-3,2,1,2,0,0,0,23
+Protective Services (non-sworn),2019,10,2019/10/31 07:00:00+00,Male,19,0,-2,-2,2,0,-1,0,24
+Protective Services (sworn),2019,10,2019/10/31 07:00:00+00,Female,-3,-1,-1,-1,0,0,0,0,25
+Protective Services (sworn),2019,10,2019/10/31 07:00:00+00,Male,7,-1,0,-1,1,0,0,0,26
+Service Maintenance,2019,10,2019/10/31 07:00:00+00,Female,-16,-13,-1,0,-2,0,1,0,27
+Service Maintenance,2019,10,2019/10/31 07:00:00+00,Male,8,20,1,1,-1,1,4,0,28
+Skilled Craft,2019,10,2019/10/31 07:00:00+00,Female,-2,-2,0,0,0,0,0,0,29
+Skilled Craft,2019,10,2019/10/31 07:00:00+00,Male,17,-13,1,-2,-1,0,2,0,30
+Technicians,2019,10,2019/10/31 07:00:00+00,Female,-14,-5,-2,0,-2,0,1,0,31
+Technicians,2019,10,2019/10/31 07:00:00+00,Male,1,22,1,-1,-1,0,1,0,32
+Administrative Support,2018,10,2018/10/31 07:00:00+00,Female,8,9,3,0,0,0,2,0,33
+Administrative Support,2018,10,2018/10/31 07:00:00+00,Male,-18,-3,0,0,-1,0,0,0,34
+Officials / Administrators,2018,10,2018/10/31 07:00:00+00,Female,8,-2,4,0,1,0,0,0,35
+Officials / Administrators,2018,10,2018/10/31 07:00:00+00,Male,-16,2,4,0,0,0,0,0,36
+Professionals,2018,10,2018/10/31 07:00:00+00,Female,-7,2,0,-1,0,0,0,0,37
+Professionals,2018,10,2018/10/31 07:00:00+00,Male,7,2,0,1,-2,0,0,0,38
+Protective Services (non-sworn),2018,10,2018/10/31 07:00:00+00,Female,-27,-7,3,2,6,0,0,0,39
+Protective Services (non-sworn),2018,10,2018/10/31 07:00:00+00,Male,23,2,-2,-2,6,0,-1,0,40
+Protective Services (sworn),2018,10,2018/10/31 07:00:00+00,Female,-3,-1,-1,-1,0,0,0,0,41
+Protective Services (sworn),2018,10,2018/10/31 07:00:00+00,Male,9,-1,-1,-1,0,0,0,0,42
+Service Maintenance,2018,10,2018/10/31 07:00:00+00,Female,-16,-14,-1,0,-2,0,1,0,43
+Service Maintenance,2018,10,2018/10/31 07:00:00+00,Male,14,16,0,1,-1,1,3,0,44
+Skilled Craft,2018,10,2018/10/31 07:00:00+00,Female,-2,-2,0,0,0,0,0,0,45
+Skilled Craft,2018,10,2018/10/31 07:00:00+00,Male,18,-12,1,-2,-1,0,0,0,46
+Technicians,2018,10,2018/10/31 07:00:00+00,Female,-16,-6,-2,0,-1,0,0,0,47
+Technicians,2018,10,2018/10/31 07:00:00+00,Male,7,19,1,-1,-1,0,0,0,48
